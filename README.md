@@ -15,5 +15,5 @@ This project demonstrates an implementation of abstractive text summarization us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/abstractive-text-summarization.git
+   git clone https://github.com/princemsd007/abstractive-text-summarization.git
    cd abstractive-text-summarization
